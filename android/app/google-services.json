@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "865540326083",
+    "firebase_url": "https://uber-e3901.firebaseio.com",
+    "project_id": "uber-e3901",
+    "storage_bucket": "uber-e3901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865540326083:android:5a6a828deac041ae4e9876",
+        "android_client_info": {
+          "package_name": "com.example.firebase_user_avatar_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGgkJ6Gq8jsDR_LOaCGcIuSLv1BE872k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865540326083-ql8vosmjq9pr5a6kqka4k8tl6cqo1n97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rubin.advprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865540326083:android:9da29f3369b093844e9876",
+        "android_client_info": {
+          "package_name": "com.rubin.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGgkJ6Gq8jsDR_LOaCGcIuSLv1BE872k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865540326083-ql8vosmjq9pr5a6kqka4k8tl6cqo1n97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rubin.advprovider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865540326083:android:3efe1753f0eca55e4e9876",
+        "android_client_info": {
+          "package_name": "com.rubin.provider_workflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGgkJ6Gq8jsDR_LOaCGcIuSLv1BE872k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865540326083-ql8vosmjq9pr5a6kqka4k8tl6cqo1n97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rubin.advprovider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
